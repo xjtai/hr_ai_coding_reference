@@ -1,4 +1,4 @@
-# 华润金融 AI 全流程实战落地工作坊 · 参考实现（讲师用）
+#  AI 全流程实战落地工作坊 · 参考实现（讲师用）
 
 配套 [`gld_arch_coding`](https://github.com/xjtai/gld_arch_coding) 的一套填好的 SDD 文档，题目是《华润金融企业级高可用智能客服 Agent》。
 
