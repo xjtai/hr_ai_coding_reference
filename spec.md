@@ -1,7 +1,7 @@
 ---
 specId: SPEC-参考组-001
 type: spec
-title: 华润金融企业级高可用智能客服 Agent
+title: 企业级高可用智能客服 Agent
 domain: 客服
 system: reference-customer-service-agent
 owner: 参考组 / 讲师
